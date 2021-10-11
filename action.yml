@@ -1,0 +1,5 @@
+name: 'Get release tag'
+description: 'Get release tag'
+runs:
+  using: 'node12'
+  main: 'dist/commonjs/index.js'
